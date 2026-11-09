@@ -1,1 +1,1 @@
-凭好奇心开工，做点自己也想玩的东西。路过的话，欢迎[开一局飞船](https://w-captain.github.io/W-Captain/)，或者[来信聊聊](mailto:captain-tod@outlook.com)。Following my curiosity and making things I’d enjoy myself. [Take the ship for a spin](https://w-captain.github.io/W-Captain/), or [say hello](mailto:captain-tod@outlook.com).
+[The ship is yours](https://w-captain.github.io/W-Captain/). Watch the asteroids.
