@@ -1,1 +1,1 @@
-这里有一艘小飞船，闲的话可以[开一局](https://w-captain.github.io/W-Captain/)。想聊点什么，也可以[给我写信](mailto:captain-tod@outlook.com)。There’s a little spaceship here—[take it for a spin](https://w-captain.github.io/W-Captain/), or [drop me a line](mailto:captain-tod@outlook.com).
+凭好奇心开工，做点自己也想玩的东西。路过的话，欢迎[开一局飞船](https://w-captain.github.io/W-Captain/)，或者[来信聊聊](mailto:captain-tod@outlook.com)。Following my curiosity and making things I’d enjoy myself. [Take the ship for a spin](https://w-captain.github.io/W-Captain/), or [say hello](mailto:captain-tod@outlook.com).
