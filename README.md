@@ -1,5 +1,1 @@
-<a href="https://w-captain.github.io/W-Captain/">
-  <img src="./starship.svg" alt="Starship — 点击开始躲陨石 / Click to play" width="960" />
-</a>
-
-<p><a href="mailto:captain-tod@outlook.com"><img src="./email.svg" alt="Email captain-tod@outlook.com" height="28" /></a></p>
+这里有一艘小飞船，闲的话可以[开一局](https://w-captain.github.io/W-Captain/)。想聊点什么，也可以[给我写信](mailto:captain-tod@outlook.com)。There’s a little spaceship here—[take it for a spin](https://w-captain.github.io/W-Captain/), or [drop me a line](mailto:captain-tod@outlook.com).
